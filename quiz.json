@@ -1,0 +1,56 @@
+{
+  "quiz": [
+    {
+      "question": "What is the sum of 54 and 26?",
+      "options": ["78", "80", "82"],
+      "answer": "80"
+    },
+    {
+      "question": "If a triangle has a base of 10 cm and a height of 6 cm, what is its area?",
+      "options": ["30 cm²", "60 cm²", "40 cm²"],
+      "answer": "30 cm²"
+    },
+    {
+      "question": "Solve: 72 ÷ 8 = ?",
+      "options": ["8", "9", "10"],
+      "answer": "9"
+    },
+    {
+      "question": "What is the value of 12 x 4?",
+      "options": ["36", "48", "44"],
+      "answer": "48"
+    },
+    {
+      "question": "Convert 3/4 into a decimal.",
+      "options": ["0.75", "0.25", "0.5"],
+      "answer": "0.75"
+    },
+    {
+      "question": "What is the perimeter of a square with a side length of 5 cm?",
+      "options": ["10 cm", "15 cm", "20 cm"],
+      "answer": "20 cm"
+    },
+    {
+      "question": "A book costs $25. If you buy 2 books, how much will you pay?",
+      "options": ["$50", "$40", "$45"],
+      "answer": "$50"
+    },
+    {
+      "question": "What is the next number in this sequence: 5, 10, 15, 20, ...?",
+      "options": ["25", "30", "35"],
+      "answer": "25"
+    },
+    {
+      "question": "A box has 36 candies. If you share them equally among 4 friends, how many candies will each get?",
+      "options": ["9", "8", "10"],
+      "answer": "9"
+    },
+    {
+      "question": "If 1 kilogram equals 1000 grams, how many grams are in 3 kilograms?",
+      "options": ["2000 grams", "3000 grams", "4000 grams"],
+      "answer": "3000 grams"
+    }
+  ],
+  "follow_question": "Have you followed @moxiedegenenergy?",
+  "follow_options": ["Already", "Not Yet", "Soon"]
+}
